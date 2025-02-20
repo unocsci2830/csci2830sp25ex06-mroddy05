@@ -1,3 +1,3 @@
-# Title (update this to match assignment, e.g., Exercise 3, etc.)
+Exercise 6: Packaging
 
-add short (1-2 sentences) description of assignment here
+Work with organizing exercise 5 into packages.
